@@ -1,0 +1,8 @@
+README
+In order to be able to successfully use this software to automaticly create webpages in you wordpress (Gutemberg 5.2.2)
+You will need 2 plugins:
+  https://drive.google.com/open?id=143DbOZzbmU3r3DPYTwxYBhX4BUPTweYO
+  and Wordpress auto scheduler
+Also you will need to run the latest version of chromedriver and selenium. (you will need obviosly both of them).
+
+There are a few errors in the code that make it unstable while dealing with Emojis. If no emoji, no problem :D.
